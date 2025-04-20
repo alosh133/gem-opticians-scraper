@@ -5,6 +5,7 @@ A web scraping project to collect men's sunglasses data (brand, title, price) fr
 ---
 
 ## 📌 Features
+
 - Scrapes all product listings from multiple pages.
 - Extracts:
   - ✅ Brand
@@ -15,6 +16,7 @@ A web scraping project to collect men's sunglasses data (brand, title, price) fr
 ---
 
 ## 🛠️ Tech Stack
+
 - Python
 - Selenium
 - BeautifulSoup
@@ -26,6 +28,7 @@ A web scraping project to collect men's sunglasses data (brand, title, price) fr
 ## 🚀 How to Run
 
 1. Clone the repository:
+
 ```bash
-git clone https://github.com/your-username/gem-opticians-scraper.git
+git clone https://github.com/alosh133/gem-opticians-scraper.git
 cd gem-opticians-scraper
